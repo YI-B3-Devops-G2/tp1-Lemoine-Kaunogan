@@ -1,6 +1,6 @@
-install vagrant 
+# prerequisites
+install vagrant
+install VirtualBox 6.0
 
-# make 
-vagrant up 
-
-
+#for_launch 
+vagrant up --provider virtualbox
